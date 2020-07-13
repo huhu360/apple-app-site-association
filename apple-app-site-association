@@ -1,0 +1,14 @@
+{
+    "applinks":{
+        "apps":[
+        ],
+        "details":[
+          // 因为有两个app，需要有两个，如果一个就只需要一个
+         // 团队id，就是刚才截图中记下的id
+            {
+                "paths":["*"],
+                "appID":"GMW89D6AJK.com.ds99.Zhengqi"
+            }
+        ]
+    }
+}
